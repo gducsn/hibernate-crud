@@ -93,9 +93,9 @@ name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
 		<property 
 name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
 		<property 
-name="connection.url">jdbc:mysql://localhost:3306/hibernate_crud</property>
+name="connection.url">jdbc:mysql://localhost:3306/hibernate</property>
 		<property name="connection.username">root</property>
-		<property name="connection.password">1244</property>
+		<property name="connection.password">root</property>
 		<property name="show_sql">true</property>
 		<property name="format_sql">true</property>
 		<property name="hbm2ddl.auto">create-drop</property>
